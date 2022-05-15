@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_App/static/css/main.e8ed3fba.css",
+    "main.js": "/React_App/static/js/main.453a11e3.js",
+    "static/js/787.e8fbd3bd.chunk.js": "/React_App/static/js/787.e8fbd3bd.chunk.js",
+    "static/media/airplane.jpg": "/React_App/static/media/airplane.18da453ffeb7f5899f7c.jpg",
+    "index.html": "/React_App/index.html",
+    "main.e8ed3fba.css.map": "/React_App/static/css/main.e8ed3fba.css.map",
+    "main.453a11e3.js.map": "/React_App/static/js/main.453a11e3.js.map",
+    "787.e8fbd3bd.chunk.js.map": "/React_App/static/js/787.e8fbd3bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ed3fba.css",
+    "static/js/main.453a11e3.js"
+  ]
+}
